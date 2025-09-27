@@ -1,0 +1,7 @@
+The 404 issue with my “Minimum Number of K Consecutive Bit Flips” file was caused by a trailing dot (.) in the filename.
+
+GitHub doesn’t handle filenames ending with a dot well.
+
+Renaming the file to a proper format (e.g., Minimum_Number_of_K_Consecutive_Bit_Flips.py) solved the problem.
+
+Now all links in the repo work correctly, and files are easily accessible.
